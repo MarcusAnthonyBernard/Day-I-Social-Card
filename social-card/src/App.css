@@ -1,0 +1,13 @@
+.app {
+    display: flex;
+    flex-direction: row;
+}
+
+.appcontainer {
+    width: 600px;
+    margin-left: 15px;
+}
+
+.logo {
+    margin-top: 25px;
+}

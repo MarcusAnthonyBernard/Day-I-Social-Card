@@ -1,0 +1,23 @@
+.imgthumbnail {
+    height: 50px;
+}
+
+h5 {
+    color: grey;
+    margin-top: 36px;
+    margin-left: 15px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+}
+
+.headercontent {
+    width: 600px;
+}
+
+.headertitle {
+    display: flex;
+    flex-direction: row;
+}
